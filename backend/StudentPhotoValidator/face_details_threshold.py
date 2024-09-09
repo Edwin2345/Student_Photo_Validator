@@ -1,0 +1,2 @@
+FACE_DETAILS_THRESHOLDS = {"Smile": {"desiredValue": False, "minConfidence": 70}, "Sunglasses": {"desiredValue": False, "minConfidence": 75}, "EyesOpen": {"desiredValue": True, "minConfidence": 70}, "MouthOpen": {"desiredValue": False, "minConfidence": 70}}
+FAILURE_REASONS = {"Smile": "Smiling", "Sunglasses": "Sunglasses", "EyesOpen": "Eyes Closed", "MouthOpen": "Mouth Open"}

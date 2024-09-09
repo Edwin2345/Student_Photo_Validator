@@ -1,0 +1,1 @@
+export const validationCategories = ["Smile", "Sunglasses", "EyesOpen", "MouthOpen"]
